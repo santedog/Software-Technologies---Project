@@ -14,12 +14,32 @@ namespace BlogExersice.Controllers
     public class PostsController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
+        private string sortOrder;
 
         // GET: Posts
         public ActionResult Index()
         {
+            ViewBag.NameSortParm = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
+            ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
+            var post = from p in db.Posts
+                           select p;
+            switch (sortOrder)
+            {
+                case "name_desc":
+                    post = post.OrderByDescending(p => p.Title);
+                    break;
+                case "Date":
+                    post = post.OrderBy(p => p.Date);
+                    break;
+                case "date_desc":
+                    post = post.OrderByDescending(p => p.Date);
+                    break;
+                default:
+                    post = post.OrderBy(p => p.Title);
+                    break;
+            }
 
-            return View(db.Posts.Include(p => p.Author).ToList());
+         return View(post.ToList()); //return View(db.Posts.Include(p => p.Author).ToList());       
         }
 
         // GET: Posts/Details/5
