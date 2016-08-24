@@ -17,7 +17,7 @@ namespace BlogExersice.Controllers
         private string sortOrder;
 
         // GET: Posts
-        public ActionResult Index()
+        public ActionResult Index(string sortOrder)
         {
             ViewBag.NameSortParm = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
             ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
@@ -39,7 +39,8 @@ namespace BlogExersice.Controllers
                     break;
             }
 
-         return View(post.ToList()); //return View(db.Posts.Include(p => p.Author).ToList());       
+         return View(post.Include(p => p.Author).ToList()); //return View(db.Posts.Include(p => p.Author).ToList()); 
+            //return View(post.ToList());      
         }
 
         // GET: Posts/Details/5
