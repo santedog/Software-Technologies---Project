@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using BlogExersice.Models;
+using PagedList;
 
 namespace BlogExersice.Controllers
 {
@@ -16,10 +17,23 @@ namespace BlogExersice.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Posts
-        public ActionResult Index(string sortOrder, string searchString)
+        public ActionResult Index(string sortOrder, string currentFilter, string searchString, int? page)
         {
+            ViewBag.CurrentSort = sortOrder;
             ViewBag.NameSortParm = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
             ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
+
+            if (searchString != null)
+            {
+                page = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+
+            ViewBag.CurrentFilter = searchString;
+
             var post = from p in db.Posts select p;
 
             if (!String.IsNullOrEmpty(searchString))
@@ -42,8 +56,11 @@ namespace BlogExersice.Controllers
                     post = post.OrderBy(p => p.Title);
                     break;
             }
-
-         return View(post.Include(p => p.Author).ToList()); //return View(db.Posts.Include(p => p.Author).ToList()); 
+            int pageSize = 3;
+            int pageNumber = (page ?? 1);
+            return View(post.Include(p => p.Author).ToPagedList(pageNumber, pageSize));
+            //return View(post.Include(p => p.Author).ToList()); 
+            //return View(db.Posts.Include(p => p.Author).ToList()); 
             //return View(post.ToList());      
         }
 

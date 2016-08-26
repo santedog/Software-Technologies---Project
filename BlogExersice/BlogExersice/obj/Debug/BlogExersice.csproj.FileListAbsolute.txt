@@ -136,3 +136,7 @@ E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microso
 E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.xml
 E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\obj\Debug\BlogExersice.csprojResolveAssemblyReference.cache
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.Mvc.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.Mvc.xml
