@@ -14,15 +14,19 @@ namespace BlogExersice.Controllers
     public class PostsController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
-        private string sortOrder;
 
         // GET: Posts
-        public ActionResult Index(string sortOrder)
+        public ActionResult Index(string sortOrder, string searchString)
         {
             ViewBag.NameSortParm = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
             ViewBag.DateSortParm = sortOrder == "Date" ? "date_desc" : "Date";
-            var post = from p in db.Posts
-                           select p;
+            var post = from p in db.Posts select p;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                post = post.Where(p => p.Title.Contains(searchString) || p.Body.Contains(searchString));
+            }
+
             switch (sortOrder)
             {
                 case "name_desc":
