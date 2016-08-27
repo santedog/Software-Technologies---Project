@@ -28,7 +28,10 @@ textarea {
 }
 
 .post>h2, .post>div {
-    background: #DDD;
+    background: #dbe7ef;
     margin: 0;
     padding: 5px;
+}
+.navbar {
+    background: #335b78;
 }
