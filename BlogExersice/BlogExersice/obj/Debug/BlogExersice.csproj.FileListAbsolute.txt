@@ -140,3 +140,7 @@ E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedLi
 E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.Mvc.dll
 E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.xml
 E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.Mvc.xml
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\bin\PagedList.dll
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\bin\PagedList.Mvc.dll
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\bin\PagedList.xml
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\bin\PagedList.Mvc.xml
