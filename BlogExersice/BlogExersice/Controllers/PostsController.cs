@@ -76,8 +76,14 @@ namespace BlogExersice.Controllers
             {
                 return HttpNotFound();
             }
+
+            //comments should be added here or in different controler? I suppose dirrefent controler so we can have all edit/details etc part generated.
+
             return View(post);
         }
+
+
+
 
         // GET: Posts/Create
         [Authorize]

@@ -1,4 +1,4 @@
-﻿@model BlogExersice.Models.Post
+﻿@model BlogExersice.Models.Comment
 
 @{
     ViewBag.Title = "Details";
@@ -7,23 +7,15 @@
 <h2>Details</h2>
 
 <div>
-    <h4>Post</h4>
+    <h4>Comment</h4>
     <hr />
     <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.Title)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Title)
-        </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Body)
         </dt>
 
         <dd>
-           @Html.DisplayFor(model => model.Body)
+            @Html.DisplayFor(model => model.Body)
         </dd>
 
         <dt>
@@ -33,14 +25,8 @@
         <dd>
             @Html.DisplayFor(model => model.Date)
         </dd>
-        <dt>
-            Comments:
-        </dt>
-        <dd>
-            @Html.ActionLink("View Comments", "Edit", new { id = Model.Id })
-        </dd>
 
-</dl>
+    </dl>
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |

@@ -8,7 +8,7 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Father's Posts:</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
@@ -73,7 +73,9 @@
 
 </table>
 <br />
-Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
 
-@Html.PagedListPager(Model, page => Url.Action("Index",
+<p>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index",
     new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</p>
