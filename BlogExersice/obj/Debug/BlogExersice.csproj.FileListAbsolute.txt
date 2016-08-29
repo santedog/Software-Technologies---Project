@@ -1,0 +1,364 @@
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\csc.exe
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\System.Collections.Immutable.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\vbc.exe
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\VBCSCompiler.exe
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\roslyn\VBCSCompiler.exe.config
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\BlogExersice.dll.config
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\BlogExersice.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\BlogExersice.pdb
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Antlr3.Runtime.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\EntityFramework.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\EntityFramework.SqlServer.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Google.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Web.Infrastructure.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Newtonsoft.Json.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Owin.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.Helpers.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.Mvc.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.Optimization.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.Razor.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.WebPages.Deployment.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.WebPages.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.WebPages.Razor.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\WebGrease.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.Helpers.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.Mvc.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.Optimization.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.Razor.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.WebPages.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.WebPages.Deployment.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\System.Web.WebPages.Razor.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Antlr3.Runtime.pdb
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Newtonsoft.Json.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\EntityFramework.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\EntityFramework.SqlServer.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Google.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\obj\Debug\BlogExersice.dll
+c:\users\te4o\documents\visual studio 2015\Projects\BlogExersice\BlogExersice\obj\Debug\BlogExersice.pdb
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\obj\Debug\BlogExersice.csprojResolveAssemblyReference.cache
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\obj\Debug\BlogExersice.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\obj\Debug\BlogExersice.pdb
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\csc.exe
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\System.Collections.Immutable.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\System.Reflection.Metadata.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\vbc.exe
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\VBCSCompiler.exe
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\roslyn\VBCSCompiler.exe.config
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\BlogExersice.dll.config
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\BlogExersice.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\BlogExersice.pdb
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Antlr3.Runtime.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\EntityFramework.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\EntityFramework.SqlServer.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Google.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Web.Infrastructure.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Newtonsoft.Json.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Owin.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.Helpers.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.Mvc.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.Optimization.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.Razor.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.WebPages.Deployment.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.WebPages.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.WebPages.Razor.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\WebGrease.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.Helpers.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.Mvc.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.Optimization.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.Razor.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.WebPages.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.WebPages.Deployment.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\System.Web.WebPages.Razor.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Antlr3.Runtime.pdb
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Newtonsoft.Json.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\EntityFramework.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\EntityFramework.SqlServer.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Google.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\obj\Debug\BlogExersice.csprojResolveAssemblyReference.cache
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.Mvc.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\BlogExersice\bin\PagedList.Mvc.xml
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\bin\PagedList.dll
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\bin\PagedList.Mvc.dll
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\bin\PagedList.xml
+C:\Users\te4o\Documents\Visual Studio 2015\Projects\BlogExersice\BlogExersice\bin\PagedList.Mvc.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\csc.exe
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\System.Collections.Immutable.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\System.Reflection.Metadata.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\vbc.exe
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\VBCSCompiler.exe
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\roslyn\VBCSCompiler.exe.config
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\BlogExersice.dll.config
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\BlogExersice.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\BlogExersice.pdb
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Antlr3.Runtime.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\EntityFramework.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\EntityFramework.SqlServer.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Google.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Web.Infrastructure.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Newtonsoft.Json.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Owin.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\PagedList.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\PagedList.Mvc.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.Helpers.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.Mvc.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.Optimization.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.Razor.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.WebPages.Deployment.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.WebPages.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.WebPages.Razor.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\WebGrease.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\PagedList.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\PagedList.Mvc.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.Helpers.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.Mvc.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.Optimization.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.Razor.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.WebPages.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.WebPages.Deployment.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\System.Web.WebPages.Razor.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Antlr3.Runtime.pdb
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Newtonsoft.Json.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\EntityFramework.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\EntityFramework.SqlServer.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Google.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\obj\Debug\BlogExersice.dll
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\obj\Debug\BlogExersice.pdb
+E:\BlogProject\Software-Technologies---Project-master\BlogExersice\BlogExersice\obj\Debug\BlogExersice.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\BlogExersice\BlogExersice\obj\Debug\BlogExersice.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\obj\Debug\BlogExersice.pdb
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\csc.exe
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\System.Collections.Immutable.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\System.Reflection.Metadata.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\vbc.exe
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\VBCSCompiler.exe
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\roslyn\VBCSCompiler.exe.config
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\BlogExersice.dll.config
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\BlogExersice.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\BlogExersice.pdb
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Antlr3.Runtime.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\EntityFramework.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\EntityFramework.SqlServer.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Google.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Web.Infrastructure.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Newtonsoft.Json.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Owin.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\PagedList.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\PagedList.Mvc.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.Helpers.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.Mvc.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.Optimization.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.Razor.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.WebPages.Deployment.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.WebPages.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.WebPages.Razor.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\WebGrease.dll
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\PagedList.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\PagedList.Mvc.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.Helpers.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.Mvc.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.Optimization.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.Razor.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.WebPages.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.WebPages.Deployment.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\System.Web.WebPages.Razor.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Antlr3.Runtime.pdb
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Newtonsoft.Json.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\EntityFramework.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\EntityFramework.SqlServer.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Google.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SoftwareUniversity\BlogExersice\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\csc.exe
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\System.Collections.Immutable.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\System.Reflection.Metadata.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\vbc.exe
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\VBCSCompiler.exe
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\roslyn\VBCSCompiler.exe.config
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\BlogExersice.dll.config
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\BlogExersice.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\BlogExersice.pdb
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Antlr3.Runtime.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\EntityFramework.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\EntityFramework.SqlServer.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.Google.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Web.Infrastructure.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Newtonsoft.Json.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Owin.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\PagedList.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\PagedList.Mvc.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.Helpers.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.Mvc.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.Optimization.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.Razor.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.WebPages.Deployment.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.WebPages.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.WebPages.Razor.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\WebGrease.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\PagedList.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\PagedList.Mvc.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.Helpers.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.Mvc.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.Optimization.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.Razor.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.WebPages.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.WebPages.Deployment.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\System.Web.WebPages.Razor.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Antlr3.Runtime.pdb
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Newtonsoft.Json.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\EntityFramework.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\EntityFramework.SqlServer.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.Google.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\obj\Debug\BlogExersice.csprojResolveAssemblyReference.cache
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\obj\Debug\BlogExersice.dll
+E:\SoftUni\Software-Technologies---Project\BlogExersice\Software-Technologies---Project\BlogExersice\obj\Debug\BlogExersice.pdb
