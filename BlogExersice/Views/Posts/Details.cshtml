@@ -4,14 +4,14 @@
     ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
+<h2>Преглед</h2>
 
 <div>
-    <h4>Post</h4>
+    <h4>Публикация</h4>
     <hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.Title)
+            Заглавие
         </dt>
 
         <dd>
@@ -19,31 +19,31 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.Body)
+            Съдържание
         </dt>
 
         <dd>
-           @Html.DisplayFor(model => model.Body)
+           @Html.Raw(Model.Body)
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.Date)
+            Дата
         </dt>
 
         <dd>
             @Html.DisplayFor(model => model.Date)
         </dd>
         <dt>
-            Comments:
+            Комментари:
         </dt>
         <dd>
-            @Html.ActionLink("View Comments", "../Comments/Details", new { id = Model.Id })
+            @Html.ActionLink("Преглед на коментарите", "../Comments/Details", new { id = Model.Id })
         </dd>
 
 </dl>
 </div>
 <p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
-    @Html.ActionLink("Back to List", "Index") |
-    @Html.ActionLink("Add Comment", "../Comments/Create")
+    @Html.ActionLink("Промени", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Обратно", "Index") |
+    @Html.ActionLink("Добави Коментар", "../Comments/Create")
 </p>
